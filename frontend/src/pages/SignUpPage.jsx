@@ -5,7 +5,7 @@ import {Mail} from "lucide-react";
 import {Lock} from "lucide-react";
 import {Loader2} from "lucide-react";
 
-import Input from '../components/input.jsx';
+import Input from '../components/Input.jsx';
 import PasswordStrengthMeter from '../components/PasswordStrengthMeter.jsx';
 import { useAuthStore } from '../store/authStore.js';
 

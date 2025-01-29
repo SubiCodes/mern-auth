@@ -1,4 +1,4 @@
-import Input from '../components/input.jsx';
+import Input from '../components/Input.jsx';
 import { ArrowLeft, Loader, Mail } from "lucide-react";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
